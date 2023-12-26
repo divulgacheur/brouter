@@ -1,5 +1,5 @@
 ---lookupversion:10
----minorversion:14
+---minorversion:15
 
 ---context:way
 
@@ -8,7 +8,7 @@ highway;0010319731 service
 highway;0007688809 track
 highway;0007656124 unclassified
 highway;0004141444 footway
-highway;0004141444 chatiere
+highway;0004141842 chatiere
 highway;0003493551 tertiary
 highway;0002852601 path
 highway;0002185240 secondary
