@@ -23,7 +23,7 @@ import btools.util.CompactLongMap;
 import btools.util.FrozenLongMap;
 
 public final class OsmTrack {
-  final public static String version = "1.7.3";
+  final public static String version = "1.7.4";
   final public static String versionDate = "19082023";
 
   // csv-header-line
